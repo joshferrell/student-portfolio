@@ -12,9 +12,7 @@ abstract = "How have the recent reforms of the United Nations’ Committee on Wo
 abstract_short = "How have the recent reforms of the United Nations’ Committee on World Food Security changed the committee’s division of power? The reforms have created an important and significant shift in the dissemination of power within the Committee on World Food Security by allowing previously underrepresented stakeholders to have a much more prominent and influential role in the committee."
 
 url_pdf = "http://trace.tennessee.edu/cgi/viewcontent.cgi?article=1323&context=pursuit"
-url_citation = "Stein, Alana (2016) "Power Play at the United Nations: The Effects of Added Stakeholders in the
-Committee on World Food Security," Pursuit - The Journal of Undergraduate Research at the
-University of Tennessee: Vol. 7 : Iss. 1 , Article 22. Available at: http://trace.tennessee.edu/pursuit/vol7/iss1/22"
+url_preprint = "http://trace.tennessee.edu/pursuit/vol7/iss1/22/"
 
 image_preview = "/headers/power-play-preview.jpg"
 
@@ -22,3 +20,7 @@ image_preview = "/headers/power-play-preview.jpg"
 image = "headers/power-play.jpg"
 caption = "Power Play at the United Nations"
 +++
+
+"Stein, Alana (2016) "Power Play at the United Nations: The Effects of Added Stakeholders in the
+Committee on World Food Security," Pursuit - The Journal of Undergraduate Research at the
+University of Tennessee: Vol. 7 : Iss. 1 , Article 22. Available at: http://trace.tennessee.edu/pursuit/vol7/iss1/22"
