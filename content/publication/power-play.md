@@ -20,7 +20,3 @@ image_preview = "/headers/power-play-preview.jpg"
 image = "headers/power-play.jpg"
 caption = "Power Play at the United Nations"
 +++
-
-"Stein, Alana (2016) "Power Play at the United Nations: The Effects of Added Stakeholders in the
-Committee on World Food Security," Pursuit - The Journal of Undergraduate Research at the
-University of Tennessee: Vol. 7 : Iss. 1 , Article 22. Available at: http://trace.tennessee.edu/pursuit/vol7/iss1/22"
