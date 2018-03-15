@@ -10,9 +10,10 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Food Security",
-    "NGOs",
-    "Service Learning"
+    "Intersectionality",
+    "Stratification",
+    "Food and Society",
+    "Public Scholarship"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -25,7 +26,6 @@ weight = 5
   course = "Bachelor of Arts, Food Security with Sociopolitical and Chemical Emphases"
   institution = "University of Tennessee at Knoxville"
   year = 2012
-
 +++
 
 # Biography
