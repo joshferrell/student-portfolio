@@ -1,7 +1,7 @@
 +++
 title = "Seed To Plate"
 date = 2017-03-15
-draft = "false"
+draft = false
 
 time_start = 2014
 
