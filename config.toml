@@ -51,7 +51,7 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Alana Stein"
-  role = "Teaching Assistant at UC Davis"
+  role = "Graduate Student"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -67,7 +67,7 @@ defaultContentLanguageInSubdir = false
   email = "alstein@ucdavis.edu"
   address = "Social Science and Humanities 259, 1 Shields Avenue, Davis, CA 95616"
   office_hours = "Tuesday 2:30 - 4:30pm"
-  phone = "888 888 88 88"
+  phone = ""
   skype = ""
   telegram = ""
 
@@ -97,10 +97,10 @@ defaultContentLanguageInSubdir = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
-  map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
+  map = 1
+  map_api_key = "AIzaSyDq0MYFcQ97j86nPROLCInj1Ry17Zoljjo "
+  latitude = "38.5429046"
+  longitude = "-121.7480629"
   zoom = 15
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
