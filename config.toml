@@ -230,7 +230,7 @@ defaultContentLanguageInSubdir = false
     link = "https://www.researchgate.net/profile/Sara_Stein3"
 
   [[params.social]]
-    icon = "linkedin-in"
+    icon = "linkedin"
     icon_pack = "fa"
     link = "https://www.linkedin.com/in/saraalanastein/"
 
