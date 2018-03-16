@@ -1,7 +1,56 @@
+.fa-sub {
+   position: relative;
+   left: -.5em;
+   width: .2em;
+   vertical-align: -.25em;
+   text-shadow: -1px -1px 0px white, -1px 1px 0px white, -1px 0px 0px white; // optional contrast
+ }
+
+.btn.cta {
+    border: 2px solid #4caf50;
+    padding: 8px 16px;
+    font-size: .9rem;
+    font-family: montserrat;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.btn.cta span {
+    margin-right: 10px;
+}
+
 body {
     font-family: georgia, 'times new roman', serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
     font-weight: 700;
+}
+
+.powered-by {
+    display: none;
+}
+
+.article-banner {
+    margin: 0 auto;
+    max-width: 760px;
+}
+
+.honors-awards {
+    font-weight: bold;
+    font-family: 'Montserrat';
+    margin: 1.5rem 0;
+}
+
+.honors-awards .pub-list-item {
+    margin: 1rem 0;
+}
+
+.honors-awards .col-md-10 {
+    border-left: 1px solid #d2d5db;
+}
+
+.honors-awards .details {
+    font-weight: normal;
+    font-family: georgia, 'times new roman', serif;
 }

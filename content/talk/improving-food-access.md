@@ -1,17 +1,22 @@
 +++
-title = "Seed to Plate"
-date = 2018-03-15T13:34:26-07:00  # Schedule page publish date.
+title = "Improving Food Access"
+date = 2018-03-15T14:56:27-07:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2014-11-08T18:00:00
+time_start = 2018-01-16
+
+# Abstract and optional shortened version.
+abstract = ""
+abstract_short = ""
 
 # Name of event and optional event URL.
-event = "End Hunger"
+event = "Introduction to Community and Regional Development"
+event_url = "https://humanecology.ucdavis.edu/community-and-regional-development"
 
 # Location of event.
-location = "Tennessee Technological University"
+location = "University of California, Davis"
 
 # Is this a selected talk? (true/false)
 selected = false
@@ -26,6 +31,12 @@ projects = []
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = ["Food Security"]
 
+# Links (optional).
+url_pdf = ""
+url_slides = ""
+url_video = ""
+url_code = ""
+
 # Does the content use math formatting?
 math = false
 
@@ -35,10 +46,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = ""
+image = "headers/improving-food-access.jpg"
 caption = ""
 
 +++
-
-As a Keynote speaker for the university’s End Hunger event, my goal was to educate others on how a food system
-works and how students could get involved in their local food system.

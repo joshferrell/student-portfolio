@@ -1,20 +1,28 @@
 +++
-# Custom widget.
-# An example of using the custom widget to create your own homepage section.
-# To create more sections, duplicate this file and edit the values below as desired.
 widget = "custom"
-active = false
+active = true
 date = "2016-04-20T00:00:00"
 
-# Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Custom Section"
-subtitle = ""
+title = "Teaching Experience"
 
 # Order that this section will appear in.
 weight = 60
-
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+## Teaching Assistant
 
-To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
+* Introduction to Sociology (SOC 001)
+* Social Problems (SOC 003)
+* Global Social Change (SOC 005)
+* Data Visualization in the Social Sciences (CMN 12Y/POL 12Y/ PSC 12Y/ SOC 12Y)
+* Introduction to Social Research (SOC 46B)
+
+## Mentorship
+
+Mentor for the UC Davis Undergraduate Research Center Mentor-
+Mentee Program in Humanities, Arts, Cultural Studies and Social
+Sciences (2017-2018)
+
+Mentor to Three Undergraduate Research Assistants (Winter 2018)
+
+Mentor to Two Undergraduate Research Assistants (Fall 2017)

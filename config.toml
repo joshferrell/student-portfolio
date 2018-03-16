@@ -65,7 +65,7 @@ defaultContentLanguageInSubdir = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "alstein@ucdavis.edu"
-  address = "Social Science and Humanities 259, 1 Shields Avenue, Davis, CA 95616"
+  address = "1 Shields Avenue, Social Science and Humanities 259, Davis, CA 95616"
   office_hours = "Tuesday 2:30 - 4:30pm"
   phone = ""
   skype = ""
@@ -99,9 +99,10 @@ defaultContentLanguageInSubdir = false
   #   3: OpenStreetMap (Mapbox)
   map = 1
   map_api_key = "AIzaSyDq0MYFcQ97j86nPROLCInj1Ry17Zoljjo "
+  
   latitude = "38.5429046"
   longitude = "-121.7480629"
-  zoom = 15
+  zoom = 18
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
@@ -154,7 +155,7 @@ defaultContentLanguageInSubdir = false
   # highlight_style = "github"
 
   # Enable native social sharing buttons?
-  sharing = true
+  sharing = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
@@ -181,7 +182,7 @@ defaultContentLanguageInSubdir = false
   # Configuration of talk pages.
   [params.talks]
     # Show talk time?
-    time = true
+    time = false
 
   # Configuration of publication pages.
   [params.publications]
@@ -264,9 +265,15 @@ defaultContentLanguageInSubdir = false
   weight = 4
 
 [[menu.main]]
+  name = "Grants and Honors"
+  url = "/grants-and-honors"
+  weight = 5
+
+[[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 5
+  weight = 6
+
 
 # Taxonomies.
 [taxonomies]

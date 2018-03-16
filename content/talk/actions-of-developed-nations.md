@@ -1,17 +1,26 @@
 +++
-title = "Seed to Plate"
-date = 2018-03-15T13:34:26-07:00  # Schedule page publish date.
+title = "The Actions of Developed Nations"
+date = 2018-03-15T15:11:07-07:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2014-11-08T18:00:00
+time_start = 2015-10-29
+
+# Abstract and optional shortened version.
+abstract = ""
+abstract_short = '''
+    The Actions of Developed Nations and International
+    Institutions Policies on Food Security and Poverty
+    in Developing Nations
+'''
 
 # Name of event and optional event URL.
-event = "End Hunger"
+event = "Tennessee Undergraduate Social Science Symposium"
+event_url = "http://www.mtsu.edu/soc/socsymp/docs/2015_USSS_Program.pdf"
 
 # Location of event.
-location = "Tennessee Technological University"
+location = "Middle Tennessee State University"
 
 # Is this a selected talk? (true/false)
 selected = false
@@ -26,6 +35,12 @@ projects = []
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = ["Food Security"]
 
+# Links (optional).
+url_pdf = ""
+url_slides = ""
+url_video = ""
+url_code = ""
+
 # Does the content use math formatting?
 math = false
 
@@ -39,6 +54,3 @@ image = ""
 caption = ""
 
 +++
-
-As a Keynote speaker for the university’s End Hunger event, my goal was to educate others on how a food system
-works and how students could get involved in their local food system.

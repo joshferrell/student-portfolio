@@ -14,9 +14,9 @@ abstract_short = "How have the recent reforms of the United Nations’ Committee
 url_pdf = "http://trace.tennessee.edu/cgi/viewcontent.cgi?article=1323&context=pursuit"
 url_preprint = "http://trace.tennessee.edu/pursuit/vol7/iss1/22/"
 
-image_preview = "/headers/power-play-preview.jpg"
+image_preview = ""
 
 [header]
-image = "headers/power-play.jpg"
-caption = "Power Play at the United Nations"
+image = ""
+caption = ""
 +++

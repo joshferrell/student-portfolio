@@ -1,17 +1,19 @@
 +++
-title = "Seed to Plate"
-date = 2018-03-15T13:34:26-07:00  # Schedule page publish date.
+title = "Food: Security, Scarcity, and Significance."
+date = 2018-03-15T13:52:28-07:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2014-11-08T18:00:00
+time_start = 2015-03-26T17:00:00
+time_end = 2018-03-26T18:00:00
 
 # Name of event and optional event URL.
-event = "End Hunger"
+event = "Fourth Meal"
+event_url = "https://www.facebook.com/events/1600944123483882/permalink/1610836379161323/"
 
 # Location of event.
-location = "Tennessee Technological University"
+location = "University of Tennessee at Knoxville"
 
 # Is this a selected talk? (true/false)
 selected = false
@@ -40,5 +42,11 @@ caption = ""
 
 +++
 
-As a Keynote speaker for the university’s End Hunger event, my goal was to educate others on how a food system
-works and how students could get involved in their local food system.
+Facilitator of discussion hosted by UTK’s Office of National Scholarships and Fellowships.
+
+## Topics Discussed
+
+* Food Insecurity in Universities
+* American Exceptionalism of Resources
+* National GMO and Organics
+* Local Food Movements
