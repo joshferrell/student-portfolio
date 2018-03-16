@@ -1,12 +1,11 @@
 +++
 title = "Food: Security, Scarcity, and Significance."
-date = 2018-03-15T13:52:28-07:00  # Schedule page publish date.
+date = 2015-03-26  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 time_start = 2015-03-26T17:00:00
-time_end = 2018-03-26T18:00:00
 
 # Name of event and optional event URL.
 event = "Fourth Meal"

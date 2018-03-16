@@ -1,6 +1,6 @@
 +++
 title = "Seed to Plate"
-date = 2018-03-15T13:34:26-07:00  # Schedule page publish date.
+date = 2014-11-08  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.

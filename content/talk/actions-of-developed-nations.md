@@ -1,6 +1,6 @@
 +++
 title = "The Actions of Developed Nations"
-date = 2018-03-15T15:11:07-07:00  # Schedule page publish date.
+date = 2015-10-09  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.

@@ -14,7 +14,7 @@ weight = 60
 * Introduction to Sociology (SOC 001)
 * Social Problems (SOC 003)
 * Global Social Change (SOC 005)
-* Data Visualization in the Social Sciences (CMN 12Y/POL 12Y/ PSC 12Y/ SOC 12Y)
+* Data Visualization in the Social Sciences<br />(CMN 12Y/POL 12Y/ PSC 12Y/ SOC 12Y)
 * Introduction to Social Research (SOC 46B)
 
 ## Mentorship

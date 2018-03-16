@@ -1,12 +1,11 @@
 +++
-title = "Persistent Poverty Project: The Continuing Significance of Poverty - Panel"
-date = 2018-03-15T15:34:45-07:00  # Schedule page publish date.
+title = "A Thematic Analysis of Social Justice and Food Security at the 2015 World Expo."
+date = 2016-02-14  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2016-04-13T10:30:00
-time_end = 2016-04-13T11:45:00
+time_start = 2016-02-14T10:30:00
 
 # Abstract and optional shortened version.
 abstract = ""

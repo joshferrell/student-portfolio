@@ -1,9 +1,11 @@
-.fa-sub {
+@import url('https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i');
+
+.btn.cta .fa-sub {
    position: relative;
    left: -.5em;
    width: .2em;
    vertical-align: -.25em;
-   text-shadow: -1px -1px 0px white, -1px 1px 0px white, -1px 0px 0px white; // optional contrast
+   text-shadow: -1px -1px 0px white, -1px 1px 0px white, -1px 0px 0px white;
  }
 
 .btn.cta {
@@ -19,8 +21,17 @@
     margin-right: 10px;
 }
 
+.btn.cta:hover .fa-sub {
+    text-shadow: -1px -1px 0px #4caf50, -1px 1px 0px #4caf50, -1px 0px 0px #4caf50;
+}
+
+.btn.cta:hover {
+    background-color: #4caf50;
+    color: white;
+}
+
 body {
-    font-family: georgia, 'times new roman', serif;
+    font-family: lora, georgia, 'times new roman', serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -52,5 +63,16 @@ h1, h2, h3, h4, h5, h6 {
 
 .honors-awards .details {
     font-weight: normal;
-    font-family: georgia, 'times new roman', serif;
+    font-family: lora, georgia, 'times new roman', serif;
+}
+
+@media screen and (max-width: 768px) {
+    .card {
+        height: 350px;
+    }
+
+    .card a {
+        overflow: hidden;
+        height: calc(100% - 80px);
+    }
 }

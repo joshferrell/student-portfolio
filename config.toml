@@ -51,7 +51,7 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Alana Stein"
-  role = "Graduate Student"
+  role = "Ph.D Student"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -226,14 +226,14 @@ defaultContentLanguageInSubdir = false
     link = "mailto:alstein@ucdavis.edu"
 
   [[params.social]]
-    icon = "researchgate"
-    icon_pack = "ai"
-    link = "https://www.researchgate.net/profile/Sara_Stein3"
-
-  [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
     link = "https://www.linkedin.com/in/saraalanastein/"
+
+  [[params.social]]
+    icon = "researchgate"
+    icon_pack = "ai"
+    link = "https://www.researchgate.net/profile/Sara_Stein3"
 
 
 # Navigation Links
