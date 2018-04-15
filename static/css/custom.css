@@ -78,36 +78,8 @@ h1, h2, h3, h4, h5, h6 {
     }
 }
 
-a,
-h3.article-title a:hover {
-    color: #1E8549
-}
-
 h3.article-title,
 .pub-list-item span[itemprop="name"] > a {
     font-weight: bold;
     letter-spacing: .03rem;
-}
-
-.btn-primary {
-    background-color: #1E8549;
-    font-weight: bold;
-    letter-spacing: .03rem;
-}
-
-.btn-primary.btn-outline {
-    color: #1E8549 !important;
-    border-color: #1E8549 !important;
-}
-
-.nav-item a, .navbar-brand {
-    color: #2b2b2b !important;
-}
-
-.nav-item a:hover {
-    color: #2b2b2b !important;
-}
-
-.nav-item a:hover span {
-    border-bottom: 1px solid #2b2b2b !important;
 }
