@@ -23,7 +23,7 @@ paginate = 10
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-115874455-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -98,8 +98,8 @@ defaultContentLanguageInSubdir = false
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
   map = 1
-  map_api_key = "AIzaSyDq0MYFcQ97j86nPROLCInj1Ry17Zoljjo "
-  
+  # map_api_key = "AIzaSyDq0MYFcQ97j86nPROLCInj1Ry17Zoljjo "
+  maps_api_key = "AIzaSyDtS8rIsVmDxyH74g58RCPsQpYMdSPQiWs"
   latitude = "38.5429046"
   longitude = "-121.7480629"
   zoom = 18
