@@ -65,8 +65,8 @@ defaultContentLanguageInSubdir = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "alstein@ucdavis.edu"
-  address = "1 Shields Avenue, Social Science and Humanities 259, Davis, CA 95616"
-  office_hours = "Tuesday 2:30 - 4:30pm"
+  address = "1 Shields Avenue, Social Science and Humanities, Davis, CA 95616"
+  office_hours = ""
   phone = ""
   skype = ""
   telegram = ""
@@ -255,8 +255,8 @@ defaultContentLanguageInSubdir = false
   weight = 2
 
 [[menu.main]]
-  name = "Talks"
-  url = "#talks"
+  name = "Grants and Honors"
+  url = "/grants-and-honors"
   weight = 3
 
 [[menu.main]]
@@ -265,14 +265,19 @@ defaultContentLanguageInSubdir = false
   weight = 4
 
 [[menu.main]]
-  name = "Grants and Honors"
-  url = "/grants-and-honors"
+  name = "Talks"
+  url = "#talks"
   weight = 5
+
+[[menu.main]]
+  name = "Teaching Experience"
+  url = "/teaching-experience"
+  weight= 6
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 7
 
 
 # Taxonomies.
