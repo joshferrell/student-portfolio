@@ -87,3 +87,11 @@ h3.article-title,
 .pub-list-item .fa-comment-o {
     display: none;
 }
+
+.section-heading p {
+    color: #717171;
+}
+
+.nav-item.active .nav-item:hover {
+    color: #2b2b2b !important;
+}
