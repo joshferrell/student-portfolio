@@ -106,5 +106,8 @@ h3.article-title,
 
 .nav-item a:hover {
     color: #2b2b2b !important;
+}
+
+.nav-item a:hover span {
     border-bottom: 1px solid #2b2b2b !important;
 }
