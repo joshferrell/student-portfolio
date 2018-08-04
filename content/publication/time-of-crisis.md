@@ -9,7 +9,8 @@ publication = "Public: A Journal of Imagining America, 5(1)"
 
 image_preview = ""
 
-projects = ["public-scholarship"]
+projects = []
+tags = ["Public Scholarship"]
 
 [header]
 image = ""
