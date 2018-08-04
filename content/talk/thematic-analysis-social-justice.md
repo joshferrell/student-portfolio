@@ -3,20 +3,19 @@ title = "A Thematic Analysis of Social Justice and Food Security at the 2015 Wor
 date = 2016-02-14  # Schedule page publish date.
 draft = false
 
+authors = ["Alana Stein"]
+
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2016-02-14T10:30:00
+time_start = 2016-02-06
 
 # Abstract and optional shortened version.
 abstract = ""
-abstract_short = '''
-    A Thematic Analysis of the 2015 World Expo: Perpetuating
-    Food Insecurity or Promoting Social Justice
-'''
+abstract_short = ""
 
 # Name of event and optional event URL.
-event = "Sociologists for Women in Society"
-event_url = ""
+event = "Winter Meeting of the Sociologists for Women in Society, Roundtable on Gender and Social Movements"
+event_url = "https://socwomen.org/wp-content/uploads/2018/02/2016-Winter-Meeting-Program.pdf"
 
 # Location of event.
 location = "Memphis, TN"
@@ -32,7 +31,7 @@ projects = ["2015-world-expo"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Food Security"]
+tags = ["Food Security", "Gender", "Social Justice", "World Expo"]
 
 # Links (optional).
 url_pdf = ""

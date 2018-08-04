@@ -9,8 +9,6 @@ image = ""
 caption = ""
 +++
 
-# Teaching Experience
-
 ## Teaching Assistant
 
 * Introduction to Sociology (SOC 001)
@@ -22,6 +20,8 @@ caption = ""
 
 ## Mentorship
 Mentor for the UC Davis Undergraduate Research Center Mentor- Mentee Program in Humanities, Arts, Cultural Studies and Social Sciences (2017-2018)
+
+Mentor to Three Undergraduate Research Assistants (Spring 2018)
 
 Mentor to Three Undergraduate Research Assistants (Winter 2018)
 

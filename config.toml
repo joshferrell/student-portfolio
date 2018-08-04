@@ -6,7 +6,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Alana Stein"
+title = "Alana Haynes Stein"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -50,7 +50,7 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Alana Stein"
+  name = "Alana Haynes Stein"
   role = "Ph.D Student"
 
   # Organizations/Affiliations.
@@ -65,7 +65,7 @@ defaultContentLanguageInSubdir = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "alstein@ucdavis.edu"
-  address = "1 Shields Avenue, Social Science and Humanities, Davis, CA 95616"
+  address = "Department of Sociology, 1 Shields Avenue, Social Science and Humanities, Davis, CA 95616"
   office_hours = ""
   phone = ""
   skype = ""
@@ -255,8 +255,8 @@ defaultContentLanguageInSubdir = false
   weight = 2
 
 [[menu.main]]
-  name = "Grants and Honors"
-  url = "/grants-and-honors"
+  name = "Grants and Awards"
+  url = "#grants"
   weight = 3
 
 [[menu.main]]

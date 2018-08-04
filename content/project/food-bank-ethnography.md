@@ -1,14 +1,14 @@
 +++
-title = "World Expo 2015"
+title = "2015 World Expo"
 date = 2018-03-15T15:44:31-07:00
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["World Expo", "World Hunger", "Neoliberalism", "Social Justice"]
+tags = ['Food Security']
 
 # Project summary to display on homepage.
-summary = "Feeding the Planet, the Nation, or the Market?"
+summary = ""
 
 # Optional image to display on homepage.
 image_preview = "headers/2015-world-expo-preview.jpg"

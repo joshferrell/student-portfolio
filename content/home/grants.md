@@ -1,16 +1,20 @@
 +++
-# Recent and Upcoming Talks widget.
-widget = "talks"
+# Recent grants widget
+widget = "projects"
 active = true
 date = "2016-04-20T00:00:00"
 
-title = "Talks"
-subtitle = "Recent and Upcoming"
+title = "Grants, Fellowships, and Awards"
+subtitle = ""
+
+folder = "grant"
+
+view = 0
 
 # Order that this section will appear in.
-weight = 50
+weight = 30
 
-# Number of talks to list.
+# Number of grants to list.
 count = 5
 
 # List format.

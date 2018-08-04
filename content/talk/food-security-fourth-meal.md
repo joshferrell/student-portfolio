@@ -3,12 +3,14 @@ title = "Food: Security, Scarcity, and Significance."
 date = 2015-03-26  # Schedule page publish date.
 draft = false
 
+authors = ["Alana Stein", "Logan Terheggen"]
+
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 time_start = 2015-03-26T17:00:00
 
 # Name of event and optional event URL.
-event = "Fourth Meal"
+event = "Fourth Meal Discussion Series"
 event_url = "https://www.facebook.com/events/1600944123483882/permalink/1610836379161323/"
 
 # Location of event.
@@ -25,7 +27,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Food Security"]
+tags = []
 
 # Does the content use math formatting?
 math = false

@@ -11,6 +11,8 @@ time_start = 2016-04-14
 abstract = ""
 abstract_short = ""
 
+authors = ["Alana Stein"]
+
 # Name of event and optional event URL.
 event = "Southern Sociological Society, Session 28: The Continuing Significance of Poverty"
 event_url = "http://www.southernsociologicalsociety.org/assets/2016Meeting/SSS2016Final.pdf"
@@ -29,7 +31,7 @@ projects = ['2015-world-expo']
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ['Food Security', 'Social Justice']
+tags = ["Food Security", "Gender", "Social Justice", "World Expo"]
 
 # Links (optional).
 url_pdf = ""

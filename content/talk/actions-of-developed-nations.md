@@ -1,7 +1,9 @@
 +++
-title = "The Actions of Developed Nations"
+title = "The Actions of Developed Nations' and International Institutions' Policies on Food Security and Poverty in Developing Nations"
 date = 2015-10-09  # Schedule page publish date.
 draft = false
+
+authors = ["Alana Stein"]
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -9,14 +11,10 @@ time_start = 2015-10-29
 
 # Abstract and optional shortened version.
 abstract = ""
-abstract_short = '''
-    The Actions of Developed Nations and International
-    Institutions Policies on Food Security and Poverty
-    in Developing Nations
-'''
+abstract_short = ""
 
 # Name of event and optional event URL.
-event = "Tennessee Undergraduate Social Science Symposium"
+event = "Tennessee Undergraduate Social Science Symposium, Health and Gender Session"
 event_url = "http://www.mtsu.edu/soc/socsymp/docs/2015_USSS_Program.pdf"
 
 # Location of event.
@@ -33,7 +31,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Food Security"]
+tags = ["International Institutions", "Food Security", "World Hunger"]
 
 # Links (optional).
 url_pdf = ""

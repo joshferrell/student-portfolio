@@ -3,6 +3,8 @@ title = "Seed to Plate"
 date = 2014-11-08  # Schedule page publish date.
 draft = false
 
+authors = ["Alana Stein"]
+
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 time_start = 2014-11-08T18:00:00
@@ -24,7 +26,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Food Security"]
+tags = []
 
 # Does the content use math formatting?
 math = false
