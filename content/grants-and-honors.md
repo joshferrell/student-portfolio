@@ -44,24 +44,24 @@ fellowships within the same year copy the "pub-list-item" section -->
         <div class="pub-list-item">
             <div class="details">
                 University of Tennessee Chancellor’s Honors Program Research
-                Grant. “Examining Social Justice and Food Security in the Expo
-                2015 ‘Feeding the Planet, Energy for Life.’”
+                Grant. "Examining Social Justice and Food Security in the Expo
+                2015 ‘Feeding the Planet, Energy for Life.’"
             </div>
             Funding: $2,500
         </div>
         <div class="pub-list-item">
             <div class="details">
                 University of Tennessee Office of National Scholarships and
-                Fellowships Exploration Grant. “The Role of Indigenous Women in
-                the Peruvian Food System.”
+                Fellowships Exploration Grant. "The Role of Indigenous Women in
+                the Peruvian Food System."
             </div>
             Funding: $1,900
         </div>
         <div class="pub-list-item">
             <div class="details">
                 University of Tennessee Howard H. Baker Jr. Center for Public
-                Policy. “Model Food and Agriculture Organization of the United
-                Nations Conference.”
+                Policy. "Model Food and Agriculture Organization of the United
+                Nations Conference."
             </div>
             Funding: $500
         </div>
@@ -82,7 +82,7 @@ and fa-star for honors -->
         <div class="pub-list-item">
             <i class="fa fa-users" aria-hidden="true"></i> Fellowship
             <div class="details">
-                Mellon Public Scholars Fellowship. “Yolo Food Bank: Barriers to Access.” Davis Humanities Institute. <em>($7,500)</em>
+                Mellon Public Scholars Fellowship. "Yolo Food Bank: Barriers to Access." Davis Humanities Institute. <em>($7,500)</em>
             </div>
         </div>
     </div>

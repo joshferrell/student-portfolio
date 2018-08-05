@@ -1,15 +1,14 @@
 +++
-title = "Grant Name"
+title = "Laura Bowe Endowment Conference Travel Grant"
 # Ignore this date, it's just for publishing
 date = 2018-04-15T11:11:01-07:00
-draft = true
+draft = false
 
 # Name of recipients
 authors = ["Alana Stein"]
 
-time_start = 2015-10-29
-time_end = 2015-11-30
-summary = "$200 from Feeding the Planet, Energy for Life"
+time_start = 2016-01-01
+summary = "$850 from University of Tennessee College Scholars Program "
 
 # If no external link is available add  hash in front to zero it out
 external_link = ""
@@ -20,7 +19,7 @@ tags = []
 
 # One of ["grants", "honors", "awards"]
 # if no category use []
-categories = []
+categories = ["grants"]
 
 # One of ["2015-world-expo", "2018-food-network-analysis", "food-bank-ethnography"]
 # if no project use []
@@ -33,4 +32,4 @@ caption = ""
 
 +++
 
-write extra stuff here if you want to, if there is no extra stuff, then erease this bit
+

@@ -8,6 +8,11 @@
    text-shadow: -1px -1px 0px white, -1px 1px 0px white, -1px 0px 0px white;
  }
 
+ .article {
+	 margin-bottom: 64px;
+ }
+
+
 .btn.cta {
     border: 2px solid #4caf50;
     padding: 8px 16px;

@@ -31,6 +31,11 @@ weight = 5
   course = "B.A. in College Scholars with Emphasis in Food Security with Sociopolitical and Chemical Perspectives"
   institution = "University of Tennessee at Knoxville"
   year = 2012
+
+[[education.courses]]
+  course = "ISEP Study Abroad"
+  institution = "Universidad de Málaga, Spain"
+  year = "Spring 2014"
 +++
 
 # Biography
