@@ -30,7 +30,7 @@ weight = 5
 [[education.courses]]
   course = "B.A. in College Scholars with Emphasis in Food Security from Sociopolitical and Chemical Perspectives"
   institution = "University of Tennessee at Knoxville"
-  year = 2012
+  year = 2016
 
 [[education.courses]]
   course = "ISEP Study Abroad"
