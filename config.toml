@@ -265,12 +265,12 @@ defaultContentLanguageInSubdir = false
   weight = 4
 
 [[menu.main]]
-  name = "Talks"
+  name = "Presentations"
   url = "#talks"
   weight = 5
 
 [[menu.main]]
-  name = "Teaching Experience"
+  name = "Teaching"
   url = "/teaching-experience/"
   weight= 6
 

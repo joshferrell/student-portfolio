@@ -28,7 +28,7 @@ weight = 5
   year = 2018
 
 [[education.courses]]
-  course = "B.A. in College Scholars with Emphasis in Food Security with Sociopolitical and Chemical Perspectives"
+  course = "B.A. in College Scholars with Emphasis in Food Security from Sociopolitical and Chemical Perspectives"
   institution = "University of Tennessee at Knoxville"
   year = 2012
 

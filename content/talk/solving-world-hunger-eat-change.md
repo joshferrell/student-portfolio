@@ -14,7 +14,7 @@ abstract = ""
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "Eating for Change: ​Global and Local Perspectives on Food and Transformation"
+event = "Eating for Change: ​Global and Local Perspectives on Food and Transformation, Conference"
 event_url = "https://eatingforchange2018.weebly.com/"
 
 # Location of event.

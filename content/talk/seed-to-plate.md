@@ -1,5 +1,5 @@
 +++
-title = "Seed to Plate"
+title = "Keynote Speaker: Seed to Plate"
 date = 2014-11-08  # Schedule page publish date.
 draft = false
 
