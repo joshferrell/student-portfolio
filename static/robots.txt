@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://alanastein.net/sitemap.xml
