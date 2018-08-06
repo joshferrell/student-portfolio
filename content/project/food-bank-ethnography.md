@@ -1,6 +1,6 @@
 +++
 title = "Intersecting Inequities in Food Bank Access"
-date = 2018-03-15T15:44:31-07:00
+date = 2018-07-15T15:44:31-07:00
 draft = false
 
 # Tags: can be used for filtering projects.
