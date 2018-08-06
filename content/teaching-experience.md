@@ -1,5 +1,5 @@
 +++
-title = "Teaching Experience: University of California, Davis"
+title = "Teaching Experience"
 date = 2018-03-15
 draft = false
 summary = "Teaching experience for Alana Stein"
@@ -9,7 +9,7 @@ image = ""
 caption = ""
 +++
 
-## Teaching Assistant
+## Teaching Assistant: University of California, Davis
 
 * Introduction to Sociology (SOC 001)
 * Social Problems (SOC 003)
