@@ -1,0 +1,49 @@
+<div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/Event">
+  <span itemprop="name" style="font-weight: 600">
+	  {{ if .Params.external_link }}
+	  	<a href="{{ .Params.external_link }}" target="_blank" rel="noopener">
+	  {{ end }}
+	 {{ .Title }}
+	 {{ if .Params.external_link }}
+	  </a>
+	 {{ end }}
+
+  </span>
+  {{ if .Params.summary }}
+	<div>
+		{{ .Params.summary | markdownify }}
+	</div>
+  {{ end }}
+  <div class="talk-metadata">
+	  {{ if .Params.authors }}
+	  	<span>
+			{{ with .Params.authors }}
+	      		{{- delimit . ", " | markdownify -}}
+	    	{{- end -}}
+		</span>
+	  {{ end }}
+	  {{ if .Params.authors }}
+	  	{{ if .Params.time_start }}
+			<span> | </span>
+		{{ end }}
+	  {{ end }}
+	  <span>
+		{{ $date := .Params.time_start | default .Date }}
+		{{ (time $date).Format "2006" }}
+	  </span>
+	  {{ if .Params.time_start }}
+	  	{{ if .Params.time_end }}
+			<span> - </span>
+		{{ end }}
+	  {{ end }}
+	  {{ if.Params.time_end }}
+		  <span>
+		    {{ $date := .Params.time_end | default .Date }}
+		    {{ (time $date).Format "2006" }}
+		  </span>
+	  {{ end }}
+  </div>
+  <div class="talk-links">
+    {{ partial "talk_links" (dict "content" . "is_list" 1) }}
+  </div>
+</div>

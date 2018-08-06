@@ -1,6 +1,6 @@
 +++
 # Recent grants widget
-widget = "projects"
+widget = "grants"
 active = true
 date = "2016-04-20T00:00:00"
 
