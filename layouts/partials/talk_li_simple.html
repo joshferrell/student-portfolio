@@ -5,9 +5,22 @@
 	  <div>
 		  {{ $date := .Params.time_start | default .Date }}
 		  {{ (time $date).Format $.Site.Params.date_format }}
-		  {{ if $.Site.Params.talks.time }}
-		    {{ (time $date).Format ($.Site.Params.time_format | default "3:04 PM") }}
+		  {{ if (time $date).After now }}
+		  	{{ if $.Site.Params.talks.time }}
+		  		{{ (time $date).Format ($.Site.Params.time_format | default "3:04 PM") }}
+			{{ end }}
 		  {{ end }}
+
+		  {{ if .Params.time_end }}
+				{{ if .Params.time_start }}
+					{{ if (time .Params.time_start).After now }}
+						<span> - </span>
+					{{ end }}
+					{{ if $.Site.Params.talks.time }}
+					 	{{ (time .Params.time_end).Format ($.Site.Params.time_format | default "3:04 PM") }}
+				 	{{ end }}
+				{{ end }}
+   		  {{ end }}
 
 		  {{ if .Params.time_start }}
 		  	 {{ if .Params.location }}
