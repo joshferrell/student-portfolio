@@ -28,4 +28,10 @@ highlight = true
 image = "headers/improving-food-access.jpg"
 caption = ""
 
+[[collaborators.active]]
+	name = "Dr. Catherine Brinkley"
+	institution = "UC Davis"
+	description = "Assistant Professor in Community and Regional Development"
+	url = "https://humanecology.ucdavis.edu/catherine-brinkley"
+
 +++

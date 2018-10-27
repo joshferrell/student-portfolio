@@ -8,6 +8,9 @@
    text-shadow: -1px -1px 0px white, -1px 1px 0px white, -1px 0px 0px white;
  }
 
+.user-name {
+	font-weight: bold;
+}
 
 .btn.cta {
     border: 2px solid #4caf50;

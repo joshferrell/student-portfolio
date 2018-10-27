@@ -28,4 +28,13 @@ highlight = true
 image = "headers/2015-world-expo.jpg"
 caption = ""
 
+[[collaborators.active]]
+	name = "Nadia Smiecinska"
+	institution = "UC Davis"
+
+[[researchAssistant.active]]
+	name = "Yulin Liangchen"
+	image = "people/yulin-liangchen.jpeg"
+	url = "http://linkedin.com/in/yulin-liangchen-80a75b158"
+
 +++
