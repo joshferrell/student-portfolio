@@ -34,15 +34,15 @@ caption = ""
 	image = "people/alyssa-alvarado.jpg"
 
 [[researchAssistant.inactive]]
+	name = "Sanha Ali"
+	description = "Sanha Ali is a fourth year student at UC Davis and is working towards her degree in Sociology with an emphasis in Law and Society and a Communication minor. Sanha currently works as a Public Advisor in the Undergraduate Admissions office for UC Davis. Her interests include law and criminology as well as education. Sanha hopes to work in the law field upon graduation."
+	url = "https://linkedin.com/in/sanha-ali-15221111b"
+
+[[researchAssistant.inactive]]
 	name = "Ashley Cabrera"
 	description = "Ashley is a fourth-year Sociology: Organizational Studies and Psychology double major and is interested in the intersectionality of poverty, race, and gender and how it is perpetuated in various social organizations. In the future, Ashley is hoping to pursue a career in the realm of social work or non-profit management. Outside of school Ashley enjoys reading sci-fi novels and watching interesting programs."
 	url = "https://www.linkedin.com/in/ashley-cabrera-655978159/"
 	image = "people/ashley-cabrera.jpeg"
-
-[[researchAssistant.inactive]]
-	name = "Sanha Ali"
-	description = "Sanha Ali is a fourth year student at UC Davis and is working towards her degree in Sociology with an emphasis in Law and Society and a Communication minor. Sanha currently works as a Public Advisor in the Undergraduate Admissions office for UC Davis. Her interests include law and criminology as well as education. Sanha hopes to work in the law field upon graduation."
-	url = "https://linkedin.com/in/sanha-ali-15221111b"
 
 [[researchAssistant.inactive]]
 	name = "Ingrid Chang"

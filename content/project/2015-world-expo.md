@@ -33,6 +33,11 @@ caption = ""
 	institution = "UC Davis"
 
 [[researchAssistant.active]]
+	name = "Emma Wynne"
+	image = "people/emma-wynne.jpeg"
+	description = "Emma is a third year Sociology and Spanish double major at the University of California, Davis. She is interested in public health and how it relates to environmental, health, and food justice. After she graduates, Emma hopes to pursue graduate school and a career in non-profit or policy work."
+
+[[researchAssistant.active]]
 	name = "Yulin Liangchen"
 	image = "people/yulin-liangchen.jpeg"
 	url = "http://linkedin.com/in/yulin-liangchen-80a75b158"
