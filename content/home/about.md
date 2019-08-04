@@ -11,8 +11,9 @@ weight = 5
 [interests]
   interests = [
   	"Food System",
-	"Intersectional Feminism",
+    "Environment",
     "Stratification",
+    "Political Economy",
     "Poverty"
   ]
 
@@ -44,16 +45,17 @@ Alana is a Ph.D. student in the Department of Sociology at the
 University of California, Davis. Her research uses an
 intersectional, feminist approach to study inequalities in the food
 system. She engages in public scholarship, as she researches
-stratification, intersectionality, food studies, and organizations.
-In her research, she pulls on the methods of ethnography, in depth
-interviews, content analysis, and network analysis.
+stratification, the environment, political economy, food studies, and organizations.
+In her research, she pulls on the methods of ethnography, in-depth
+interviews, geospatial analysis, content analysis, and network analysis.
 
 Her current public scholarship work focuses on how intersectional inequities, such as
-gender, race, disability, and homelessness, affect the barriers people
+gender, race, disability, and homelessness, affect the organizational barriers people
 face as they try to access food assistance. She is also working on
 projects that examine the embeddedness of food banks in local food
-systems and the prominence of neoliberalism in the discourse
-surrounding solving world hunger.
+systems and the pprominent ideologies in the discourse
+surrounding solving world hunger. Her newest project examines the spatial distribution of food banks 
+and the types of communities they are located in.
 
 <a class="btn cta" href="files/cv.pdf" target="_blank">
     <span>
