@@ -39,6 +39,11 @@ caption = ""
 	image = "people/alyssa-alvarado.jpg"
 
 [[researchAssistant.inactive]]
+	name = "Juli Bautista"
+	description = "Juli graduated from The University of California Davis, in Sociology with an emphasis in Social Service and a minor in Chicanx Studies. She is interested in aiding marginalized communities like people of color, women, low-income, and undocumented populations. While working with Alana, she developed a better understanding of the difficulties various groups face accessing food in Yolo County and learned about various food banks through out California."
+	url = "https://www.linkedin.com/in/juli-bautista-09/"
+
+[[researchAssistant.inactive]]
 	name = "Ashley Cabrera"
 	description = "Ashley graduated with a Sociology: Organizational Studies and Psychology double major and is interested in the intersectionality of poverty, race, and gender and how it is perpetuated in various social organizations. In the future, Ashley is hoping to pursue a career in the realm of social work or non-profit management. Outside of school Ashley enjoys reading sci-fi novels and watching interesting programs."
 	url = "https://www.linkedin.com/in/ashley-cabrera-655978159/"
