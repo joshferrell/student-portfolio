@@ -1,15 +1,14 @@
 +++
-title = "Grant Name"
+title = "Leon Mayhew Award for Best Qualifying Paper"
 # Ignore this date, it's just for publishing
 date = 2018-04-15T11:11:01-07:00
-draft = true
+draft = false
 
 # Name of recipients
 authors = ["Alana Stein"]
 
-time_start = 2015-10-29
-time_end = 2015-11-30
-summary = "$200 from Feeding the Planet, Energy for Life"
+time_start = 2019-12-01
+summary = "$500 from Department of Sociology, University of California, Davis"
 
 # If no external link is available add  hash in front to zero it out
 external_link = ""
@@ -24,7 +23,7 @@ categories = []
 
 # One of ["2015-world-expo", "2018-food-network-analysis", "food-bank-ethnography", "spacial-prevalence-food-banks"]
 # if no project use []
-projects = ["2015-world-expo"]
+projects = ["food-bank-ethnography"]
 
 # Featured image
 [header]
@@ -32,5 +31,3 @@ image = ""
 caption = ""
 
 +++
-
-write extra stuff here if you want to, if there is no extra stuff, then erease this bit
