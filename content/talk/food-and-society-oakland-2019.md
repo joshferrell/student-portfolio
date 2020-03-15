@@ -1,5 +1,5 @@
 +++
-title = "Intersecting Inequities in Food Assistance Programs."
+title = "Intersecting Inequities in Food Assistance Programs"
 date = 2019-03-29  # Schedule page publish date.
 draft = false
 
