@@ -1,5 +1,5 @@
 +++
-title = "Food Assistance Justice: The Spatial Prevalence of Food Banks in California."
+title = "Food Assistance Justice: The Spatial Prevalence of Food Banks in California*"
 date = 2019-03-29  # Schedule page publish date.
 draft = false
 
@@ -15,7 +15,7 @@ abstract = "This project seeks to broaden conceptions, understandings, and appli
 abstract_short = "This project seeks to broaden conceptions, understandings, and applications of food justice through applying food justice to the private food assistance network."
 
 # Name of event and optional event URL.
-event = "American Association of Geographers Annual Meeting"
+event = "American Association of Geographers Annual Meeting *Canceled due to COVID-19"
 event_url = "http://www.aag.org/cs/events/event_detail?eventId=1363"
 
 # Location of event.
