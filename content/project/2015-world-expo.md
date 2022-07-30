@@ -34,7 +34,7 @@ caption = ""
 
 [[researchAssistant.inactive]]
 	name = "Kymberley Chu"
-	description = "Kymberley Chu is a current University of California, Davis student double majoring in Cognitive Science and International Relations. Kymberley aspires to pursue academic research and PhD programs that examine social issues such as the psychology of racism. She enjoys reading, coding, weightlifting and making mind maps in her free time."
+	description = "Kymberley Chu graduated in 2021 from the University of California, Davis double majoring in Anthropology and International Relations. Kymberley aspires to pursue academic research and PhD programs that examine social issues such as the psychology of racism. She enjoys reading, coding, weightlifting and making mind maps in her free time."
     url = "https://www.linkedin.com/in/kymberleychu/"
 
 [[researchAssistant.inactive]]
@@ -48,6 +48,6 @@ caption = ""
 [[researchAssistant.inactive]]
 	name = "Emma Wynne"
 	image = "people/emma-wynne.jpeg"
-	description = "Emma is a fourth year Sociology and Spanish double major at the University of California, Davis. She is interested in public health and how it relates to environmental, health, and food justice. After she graduates, Emma hopes to pursue graduate school and a career in non-profit or policy work."
+	description = "Emma majored in Sociology and Spanish at the University of California, Davis. She is interested in public health and how it relates to environmental, health, and food justice. After she graduates, Emma hopes to pursue graduate school and a career in non-profit or policy work."
 
 +++

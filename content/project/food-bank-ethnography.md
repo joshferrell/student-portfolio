@@ -1,11 +1,11 @@
 +++
-title = "Intersecting Inequities in Food Bank Access"
+title = "Public Scholarship Identifying Barriers to Access in Private Food Assistance"
 date = 2018-07-15T15:44:31-07:00
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Food Bank", "Intersectionality", "Organizations", "Public Scholarship", "Feminist Research"]
+tags = ["Food Bank", "Intersectionality", "Organizations", "Public Scholarship", "Nonprofits"]
 
 # Project summary to display on homepage.
 summary = ""

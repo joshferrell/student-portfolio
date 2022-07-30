@@ -24,7 +24,7 @@ categories = ["grants"]
 
 # One of ["2015-world-expo", "2018-food-network-analysis", "food-bank-ethnography", "spacial-prevalence-food-banks"]
 # if no project use []
-projects = []
+projects = ["ia-lli-public-scholarship"]
 
 # Featured image
 [header]

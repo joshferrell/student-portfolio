@@ -10,7 +10,8 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-  	"Food System",
+  	"Food Systems",
+    "Nonprofit Organizations",
     "Environment",
     "Stratification",
     "Political Economy",
@@ -41,21 +42,17 @@ weight = 5
 
 # Biography
 
-Alana is a Ph.D. student in the Department of Sociology at the
-University of California, Davis. Her research uses an
-intersectional, feminist approach to study inequalities in the food
-system. She engages in public scholarship, as she researches
-stratification, the environment, political economy, food studies, and organizations.
-In her research, she pulls on the methods of ethnography, in-depth
+Alana is a Ph.D. Candidate in the Department of Sociology at the
+University of California, Davis. Her research uses theories of political economy, stratification, and organizations to study inequalities in the food
+system. In her research, she pulls on the methods of ethnography, in-depth
 interviews, geospatial analysis, content analysis, and network analysis.
 
-Her current public scholarship work focuses on how intersectional inequities, such as
-gender, race, disability, and homelessness, affect the organizational barriers people
-face as they try to access food assistance. She is also working on
-projects that examine the embeddedness of food banks in local food
-systems and the pprominent ideologies in the discourse
-surrounding solving world hunger. Her newest project examines the spatial distribution of food banks 
-and the types of communities they are located in.
+Alana's dissertation focuses on U.S. food bank resources, practices, and decision-making during the COVID-19 pandemic. The research focuses on understanding how the privatization of food assistance and food bank networks impact access to resources. Her mixed methods dissertation employs geospatial analysis to examine food bank resources in relationhsip to demographic characteristics, and she uses in-depth interviews with food bank leaders coupled with archival research to compare the programs and practices of food banks.
+
+Alana has also worked with Imagining America to research graduate student experiences with publicly engaged scholarship. This work was part of Imagining America's Leading and Learning Initiative funded by the Andew W. Mellon Foundation.
+
+She also has ongoing work on projects that examine the embeddedness of food banks in local food systems and the prominent ideologies in the discourse
+surrounding solving world hunger. 
 
 <a class="btn cta" href="files/cv.pdf" target="_blank">
     <span>
