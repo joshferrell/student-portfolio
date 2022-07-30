@@ -23,7 +23,7 @@ categories = ["grants"]
 
 # One of ["2015-world-expo", "2018-food-network-analysis", "food-bank-ethnography"]
 # if no project use []
-projects = []
+projects = ["dissertation"]
 
 # Featured image
 [header]
@@ -31,4 +31,3 @@ image = ""
 caption = ""
 
 +++
-

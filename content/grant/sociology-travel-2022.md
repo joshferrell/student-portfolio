@@ -5,11 +5,10 @@ date = 2018-04-15T11:11:01-07:00
 draft = false
 
 # Name of recipients
-authors = ["Alana Stein"]
+authors = ["Alana Haynes Stein"]
 
-time_start = 2019-06-05
-time_end = 2019-08-14
-summary = "$750 from University of California, Davis"
+time_start = 2022-06-05
+summary = "$1000 from University of California, Davis"
 
 # If no external link is available add  hash in front to zero it out
 external_link = ""
@@ -24,7 +23,7 @@ categories = []
 
 # One of ["2015-world-expo", "2018-food-network-analysis", "food-bank-ethnography"]
 # if no project use []
-projects = ["2015-world-expo"]
+projects = ["dissertation"]
 
 # Featured image
 [header]
