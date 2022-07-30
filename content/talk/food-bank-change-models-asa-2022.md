@@ -1,6 +1,6 @@
 +++
 title = "Models of Change in Food Banks: Traditional Charity, Personal Responsibility, and Systemic Change"
-date = 2022-08-08  # Schedule page publish date.
+date = 2022-07-01  # Schedule page publish date.
 draft = false
 
 authors = ["Alana Haynes Stein"]
