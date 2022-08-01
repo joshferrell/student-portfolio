@@ -1,5 +1,5 @@
 +++
-title = "Public Scholarship Identifying Barriers to Access in Private Food Assistance"
+title = "Public Scholarship: Identifying Barriers to Access in Private Food Assistance"
 date = 2018-07-15T15:44:31-07:00
 draft = false
 

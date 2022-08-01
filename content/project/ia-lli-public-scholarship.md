@@ -1,5 +1,5 @@
 +++
-title = "Graduate Student Public Scholarship"
+title = "Navigating the Joys and Challenges of Public Scholarship in Graduate School"
 date = 2018-03-15T15:44:31-07:00
 draft = false
 

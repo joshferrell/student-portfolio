@@ -9,7 +9,7 @@ authors = ["Alana Stein"]
 
 time_start = 2020-02-01
 
-summary = "$500 from University of California, Davis"
+summary = "$500 from University of California, Davis (postponed due to COVID-19)"
 
 # If no external link is available add  hash in front to zero it out
 #external_link = ""

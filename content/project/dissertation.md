@@ -50,6 +50,12 @@ caption = ""
 	image = "people/valeria-hernandez.jpg"
 
 [[researchAssistant.inactive]]
+	name = "Eindra Khine"
+	description = "Eindra graduated from the University of California, Davis with a Sociology degree in 2022. After graduation, she plans on becoming a pediatrician and doing public health work. Outside of her career interests, she enjoys creating art, photography, going to the gym, and traveling."
+	url = "https://www.linkedin.com/in/eindra-khine27/"
+	image = "people/eindra-khine.jpeg"
+
+[[researchAssistant.inactive]]
 	name = "Jeffrey Lee"
 	description = "Jeffrey graduated in 2022 from the University of California, Davis double majoring in Sociology - Organizational Studies and Community and Regional Development. He is interested in pursuing a career in nonprofit development. He enjoys making Spotify playlists, going to concerts, and traveling alone in his free time."
 	url = "https://www.linkedin.com/in/jeffreylee3/"

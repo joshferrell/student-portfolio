@@ -3,7 +3,7 @@ title = "Intersecting Inequities for Nonprofit Clients: The case of private food
 date = 2019-03-29  # Schedule page publish date.
 draft = false
 
-authors = ["Alana Stein"]
+authors = ["Alana Haynes Stein"]
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
