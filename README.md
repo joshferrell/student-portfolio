@@ -50,3 +50,16 @@ Copyright 2017 [George Cushen](https://georgecushen.com).
 Released under the [MIT](https://github.com/sourcethemes/academic-kickstart/blob/master/LICENSE.md) license.
 
 [![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/academic-kickstart/readme?pixel)](https://github.com/igrigorik/ga-beacon)
+
+## Updating the site
+
+1. Checkout master `git checkout master`
+2. Make sure you have the latest code `git pull`
+3. Create a new branch `git checkout -b branch-name`
+4. Make your changes while running `hugo server` and having the site loaded on [localhost:1313](localhost:1313)
+5. After you have finished your changes click `ctrl+c` exiting out of hugo
+6. Run `hugo` (without the server) and make sure there are no errors
+7. In the sidebar there is a button "Source Control" click it and type in what changes you've made in the checkbox then press `cmd+enter`
+8. Click the blue publish branch button
+9. Now in github [create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) for your changes.
+10. After review, Josh will merge it and deploy.
