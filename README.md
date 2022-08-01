@@ -59,7 +59,8 @@ Released under the [MIT](https://github.com/sourcethemes/academic-kickstart/blob
 4. Make your changes while running `hugo server` and having the site loaded on [localhost:1313](localhost:1313)
 5. After you have finished your changes click `ctrl+c` exiting out of hugo
 6. Run `hugo` (without the server) and make sure there are no errors
-7. In the sidebar there is a button "Source Control" click it and type in what changes you've made in the checkbox then press `cmd+enter`
+7. In the sidebar there is a button "Source Control" click it and type in what changes you've made in the checkbox then press `cmd+enter`, say yes to the dialog prompt.
 8. Click the blue publish branch button
-9. Now in github [create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) for your changes.
-10. After review, Josh will merge it and deploy.
+9. Now in github [create a pull request](https://github.com/joshferrell/student-portfolio/pulls) by clicking on the "Compare & pull request" button next to your branch you made
+10. Click "Create Pull request" under the description.
+11. After review, Josh will merge it and deploy.
