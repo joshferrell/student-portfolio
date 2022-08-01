@@ -1,24 +1,23 @@
 +++
-title = "Intersecting Inequities in Food Assistance Programs"
-date = 2019-03-29  # Schedule page publish date.
+title = "Navigating the Joys and Challenges of Public Scholarship in Graduate School"
+date = 2022-03-17  # Schedule page publish date.
 draft = false
 
-authors = ["Alana Haynes Stein"]
+authors = ["Alana Haynes Stein", "Lizbeth De La Cruz Santana"]
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2019-03-29
+time_start = 2022-03-17
 
 # Abstract and optional shortened version.
 abstract = ""
-abstract_short = ""
 
 # Name of event and optional event URL.
-event = "Annual Meeting of the Pacific Sociological Association"
-event_url = "http://www.pacificsoc.org/wp-content/uploads/2019/03/2019-printed-program-1.pdf"
+event = "Imagining America's Leading and Learning Initiative Organizing Institute"
+event_url = ""
 
 # Location of event.
-location = "Oakland, CA"
+location = "Online due to COVID-19"
 
 # Is this a selected talk? (true/false)
 selected = false
@@ -27,11 +26,11 @@ selected = false
 #   Associate this talk with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = ["food-bank-ethnography"]
+projects = ["ia-lli-public-scholarship"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Food Bank", "Food Access", "Gender", "Homelessness", "Intersectionality", "Public Scholarship", "Organizations"]
+tags = ["Public Scholarship", "Higher Education", "Imagining America", "Emotions", "Work"]
 
 # Links (optional).
 url_pdf = ""

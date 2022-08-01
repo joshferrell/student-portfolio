@@ -3,7 +3,7 @@ title = "Farm to Food Bank: A Food Bank's Network of Locally Produced Food"
 date = 2019-03-29  # Schedule page publish date.
 draft = false
 
-authors = ["Alana Stein", "Catherine Brinkley"]
+authors = ["Alana Haynes Stein", "Catherine Brinkley"]
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -19,7 +19,7 @@ event = "Annual Meeting of the American Sociological Association"
 event_url = "https://www.asanet.org/annual-meeting-2020"
 
 # Location of event.
-location = "San Francisco, CA"
+location = "San Francisco, CA (Moved online due to COVID-19)"
 
 # Is this a selected talk? (true/false)
 selected = true

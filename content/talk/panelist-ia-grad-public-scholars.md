@@ -10,7 +10,7 @@ time_start = 2020-10-26
 authors = ["Lizbeth De La Cruz Santana", "Gale Greenlee", "Alana Haynes Stein", "Romo"]
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "This panel will host scholars engaging with each other around the experience of public scholarship at the graduate level based on ongoing research of graduate student experiences."
 abstract_short = ""
 
 # Name of event and optional event URL.

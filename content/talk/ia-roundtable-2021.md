@@ -10,11 +10,11 @@ time_start = 2021-10-22
 authors = ["Stephanie Maroney", "Melinda M Adams", "Lizbeth De La Cruz Santana", "Alana Haynes Stein", "Brooke Kipling", "Chloe Brotherton"]
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "This session features six UC Davis Mellon Public Scholars in dialogue about the emotional and social aspects of community-engaged graduate scholarship in the arts, humanities, and humanistic social sciences. From processing traumatic events, advocating for marginalized communities, to communicating the value of public work to academic audiences, engaged graduate scholars undertake a range of affective work that often goes unacknowledged. Stephanie Maroney (MPS Program Manager) and Lizbeth De La Cruz Santana (Spanish and Portuguese) center the keyword advocacy in their descriptions of engaged work with multiple audiences. Alana Haynes Stein (Sociology) and Chloe Brotherton (Linguistics) explore the limitations of assessment when evaluating and legitimizing graduate public scholarship. Brooke Kipling (Spanish and Portuguese) and Melinda Adams (Native American Studies) expand the idea of accessibility when working across communities and the university. This roundtable demonstrates how programs like MPS can create productive openings and transformative spaces for graduate students to pursue meaningful community engagement. Following presentations, all roundtable participants will undertake a reflective exercise to deepen their understanding of how accessibility, assessment, and advocacy shape their own work.  "
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "Panel presentation at the Imagining America Collective Creative Engagement – Through Tumultuous Times, Reimaging and Rebuilding ‘America’"
+event = "Roundtable presentation at the Imagining America 2021 National Gathering"
 event_url = ""
 
 # Location of event.

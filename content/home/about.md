@@ -47,12 +47,12 @@ University of California, Davis. Her research uses theories of political economy
 system. In her research, she pulls on the methods of ethnography, in-depth
 interviews, geospatial analysis, content analysis, and network analysis.
 
-Alana's dissertation focuses on U.S. food bank resources, practices, and decision-making during the COVID-19 pandemic. The research focuses on understanding how the privatization of food assistance and food bank networks impact access to resources. Her mixed methods dissertation employs geospatial analysis to examine food bank resources in relationhsip to demographic characteristics, and she uses in-depth interviews with food bank leaders coupled with archival research to compare the programs and practices of food banks.
+Alana's dissertation focuses on the resources, practices, and decision-making of U.S. food banks during the COVID-19 pandemic. The research focuses on understanding how the privatization of food assistance and food bank networks impact access to resources. Her mixed methods dissertation employs geospatial analysis to examine food bank resources in relationhsip to demographic characteristics, and she uses in-depth interviews with food bank leaders coupled with archival research to compare the programs and practices of different types of food banks.
 
-Alana has also worked with Imagining America to research graduate student experiences with publicly engaged scholarship. This work was part of Imagining America's Leading and Learning Initiative funded by the Andew W. Mellon Foundation.
+Alana has also worked with Imagining America to research graduate student experiences with publicly engaged scholarship. This work was part of Imagining America's Leading and Learning Initiative funded by the Andrew W. Mellon Foundation.
 
 She also has ongoing work on projects that examine the embeddedness of food banks in local food systems and the prominent ideologies in the discourse
-surrounding solving world hunger. 
+surrounding solving world hunger at the 2015 World Expo. 
 
 <a class="btn cta" href="files/cv.pdf" target="_blank">
     <span>

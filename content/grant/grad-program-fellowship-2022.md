@@ -1,14 +1,14 @@
 +++
-title = "Model Food and Agriculture Organization of the United Nations Conference"
+title = "Graduate Program Fellowship"
 # Ignore this date, it's just for publishing
 date = 2018-04-15T11:11:01-07:00
 draft = false
 
 # Name of recipients
-authors = ["Alana Stein"]
+authors = ["Alana Haynes Stein"]
 
-time_start = 2015-01-01
-summary = "$500 from University of Tennessee Howard H. Baker Jr. Center for Public Policy"
+time_start = 2022-01-01
+summary = "$12,976 from University of California, Davis"
 
 # If no external link is available add  hash in front to zero it out
 #external_link = ""

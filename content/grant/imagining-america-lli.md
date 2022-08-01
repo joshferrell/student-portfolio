@@ -8,7 +8,6 @@ draft = false
 authors = ["Alana Stein"]
 
 time_start = 2020-02-02
-time_end = 2020-09-01
 summary = "$7,500 from Imagining America through the Andrew W. Mellon Foundation and the Davis Humanities Institute"
 
 # If no external link is available add  hash in front to zero it out
